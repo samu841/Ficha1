@@ -1,0 +1,21 @@
+1. Implemente uma função que converta graus Celsius em Fahrenheit: F = (9/5) C + 32.
+2. Implemente uma função que calcule o volume de uma esfera: (4/3) π r3
+3. Implemente uma função que receba 2 pontos (x1, y1) e (x2, y2) e devolva a distância entre eles.
+4. Implemente uma função que escreva os números inteiros positivos até um número recebido pela função.
+5. Implemente uma função semelhante à função implementada no exercício 4, mas que utilize return para
+terminar ao chegar ao número 99. Teste também utilizando break em vez de return.
+6. Implemente uma função que gere aleatoriamente 25 números inteiros e que, recorrendo a instruções if-else
+indique se cada um desses 25 números é menor, maior ou igual a outro número gerado aleatoriamente.
+7. Implemente uma função que, recorrendo a dois ciclos for e ao operador módulo (%), indique quais são os
+números primos até ao número recebido por essa função. Números primos são todos os números inteiros só
+divisíveis por 1 e por eles mesmos.
+8. Implemente uma função que receba um número entre 0 e 99 e escreva esse número por extenso. Deve ainda
+escrever uma mensagem de erro para outros números.
+9. Implemente uma função que receba um número e escreva a tabuada desse número.
+10. Implemente uma função iterativa que receba um número inteiro e que apresente esse número de algarismos
+da sequência de Fibonacci (1, 1, 2, 3, 5, 8, 13, 21, 34, …).
+11. Implemente uma recursiva equivalente à função implementada no exercício 10.
+12. Implemente uma função que encontre todos os números vampiros com quatro algarismos. Um número
+vampiro é um número constituído por um número par de algarismos e cujo valor é o resultante da
+multiplicação de metade dos seus algarismos pela outra metade de algarismos. Por exemplo:
+1260 = 21 * 60 1827 = 21 * 87 2187 = 27 * 81
